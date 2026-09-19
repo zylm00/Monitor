@@ -1,0 +1,5 @@
+mss
+requests
+numpy
+Pillow
+PyAutoGUI
